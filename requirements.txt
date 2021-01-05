@@ -1,0 +1,11 @@
+socket
+subprocess
+pyautogui
+browser_cookie3
+ipapi
+smtplib
+pynput
+PIL 
+io
+PyQt5
+threading
