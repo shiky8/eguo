@@ -9,3 +9,4 @@ PIL
 io
 PyQt5
 threading
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
